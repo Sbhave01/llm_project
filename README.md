@@ -57,9 +57,13 @@ Workflow Diagram
 
 ![Project workflow](screenshots/llm_project_workflow.png)
 
+Candidates resume Upload UI
+
 ![Gradio resume upload](screenshots/gradio1.png)
 
 ![Gradio candidate resume](screenshots/gradio2.png)
+
+Find the best match
 
 ![Gradio best match](screenshots/gradio3.png)
 
