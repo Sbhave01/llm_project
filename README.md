@@ -51,3 +51,8 @@ Future Improvements
     Integrate with more advanced LLMs for better information extraction.
     Enhance domain prediction with fine-tuned models.
     Introduce advanced filters for candidate retrieval.
+
+
+Workflow Diagram
+
+![Project workflow](screenshots/llm_project_workflow.png)
