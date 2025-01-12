@@ -63,6 +63,7 @@ Candidates resume Upload UI
 
 ![Gradio candidate resume](screenshots/gradio2.png)
 
+
 Find the best match
 
 ![Gradio best match](screenshots/gradio3.png)
