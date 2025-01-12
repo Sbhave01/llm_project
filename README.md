@@ -56,3 +56,11 @@ Future Improvements
 Workflow Diagram
 
 ![Project workflow](screenshots/llm_project_workflow.png)
+
+![Gradio resume upload](screenshots/gradio1.png)
+
+![Gradio candidate resume](screenshots/gradio2.png)
+
+![Gradio best match](screenshots/gradio3.png)
+
+
